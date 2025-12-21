@@ -1,0 +1,159 @@
+  📍 hi Dannah and the extended RIF team. Thanks for the opportunity to share some thoughts over video to accompany our proposal. And, we've got a lot, so we're gonna dive right into the appendix section that we included.
+
+For the past year, we have found that many of the folks we talked to about AI have found it difficult to understand or to keep up with the pace of change. And because of that intimidating to know where to start. And frankly, even controversial in some regards.
+
+And we know that Rifs been thinking about enacting on AI for a long time. I recall conversations in May when I visited with Alicia and Natasha, and those have certainly, , matured , and those conversations that we've been having with many is what led to us formalizing our readiness and opportunity assessments.
+
+We wanted to help with these challenges that many faced and still do, and provide a systematic structure to evaluate readiness and opportunities holistically, , to reduce that intimidation.
+
+We're really excited at this crucial timing for RIF to engage deeply in this regard and do so free of charge. , You've clearly laid out some areas that you're looking for AI investment and for it to provide value for the organization, and so we'll certainly cover those here.
+
+And we'll also touch on some initial high level ideas that we would take a much deeper dive together strategically when we do the full assessment. But just want to share some thoughts we have at the moment.
+
+ Now, one thing we wanna be really clear about off the bat is our philosophy being human centered and human led throughout.
+
+Uh, we're looking for opportunities to enhance creative work and it's never about replacement, but rather augmentation, and that will always be the case.
+
+So, just wanted to state that clearly to ensure that we're on the same page there. 
+
+Now you did specifically ask about search enhancements, and we're gonna take a look at a proof of concept that we've put together, , that is focused on trying to accomplish three things very briefly here. One, to show semantic search in action and how searching around a topic idea versus just keyword matching can enhance accessibility to rifs content.
+
+To showing that we now have page by page or slide by slide access to all the content, , within PDFs and PowerPoints and videos, , and how that was previously locked up or currently locked up. And three, the AI integration, , with the LLM as a proof of concept, that could enhance search, but certainly open for further discussion .
+
+Now to be clear, we developed this proof of concept internally. This is currently hosted on my local computer. We took about 50 files at random so that we could include videos, PDFs, PowerPoints,
+
+you'll see some cute touches here of not meant to be taken literally as the design we expect, but , borrowed from the existing styles so that it's recognizable. , And you even got a brand new 2026 logo that you didn't ask for, which to be clear, we're not, , presenting. This is something I created very quickly,
+
+so I'll do the first search term here to demo how the semantic search works, and even using a question format.
+
+ So how we have it working now is it's pulling out the top two or three results, most relevant results related to the question that's asked. And we've got mockups,. In Figma, which we can look at together in January to dive deeper on this. But core aspect we're trying to show is you're actually now getting   📍 the chunk of content that matched.
+
+And if you click in, um, you're actually able to download the file and it tells you, for example, this PowerPoint, slide two, this is where the content is
+
+for video content, we've got a link actually directly to that subsection of the content that matches what you search for.
+
+So you get that, that jumps directly to 12 minutes in because it's connecting with a term. . This search yielded. Now I used this search term, to show , the concept of phonemes and graph ees are both what matched in this search query.
+
+But you don't see those keywords here, right? We're talking about sounds and spelling. And , maybe this isn't the. Best worded search term, but that is the reality of how people search. And depending on who is searching in their vocabulary and their familiarity,  📍 with semantic search you've got a better chance at finding resources that are helpful to them.
+
+, So I'll keep going just to quickly demonstrate what discussion questions can I use when reading, reading books with my child. We'll generate that. And in this case, as you see, A PDF resource tells you page three, that's actually the first page of this PowerPoint where the discussion topics are covered. And then this link to a video, again, 12 and a half minutes in,
+
+  📍   So you get , that that is specific content about discussions..
+
+And if we look at the third one here, um, I believe it'll pull up how to help kids select books and get reading resources at home.
+
+There's a book distribution, PDF to help folks ,  📍 learn about the distribution events where we can bring home reading materials. And then again,
+
+there's a connection to a different part of this family literacy webinar video where we talk more about Literacy Central and the ability to get, , reading resources at home. Okay. Last one. Before we go to LLM, I'll copy in activities or resources where kids have to guess something to encourage curiosity and engagement.
+
+Merely trying to show the semantic concept, you put guess. Clearly means something similar to prediction, but not something you'd currently get in your keyword search.
+
+ Now I'll click that search term and show you how the LLM integration , could enhance search.
+
+ Now how this is designed under the hood, is,,  through a system called Reciprocal Rank Fusion. Using two or more search mechanisms to reciprocally, talk to each other and then highlight the best.
+
+Results. So I'll show under the hood in a second, but what this is doing is matching this search term against the top 10 resources in the Rift database. That's where the semantic search is happening. And then  📍 it packages those up and says,, these are the top 10.
+
+Let me send them to the LLM. Share all of each of those content pieces to the LLM and ask it, Hey, please look at all these sources, see what the person search for. Can you summarize each of them, and then order the top five and order a priority and give a little bit of a explanation of why you've selected that.
+
+Again, this is all, totally customizable. ,, Whatever numbers we would choose or experience is up to us. You also see , the why this matches. So it does a really great job at summarizing content? And can be done real time or stored.
+
+So maybe you would land here after a first search results page and hey, didn't see what you want, take a deeper dive with our chat bot or however we would want to phrase that. , And it's giving the top  📍 five results with the same format
+
+And I included this little,, drop down here for demonstration purposes ,
+
+but I wanted to show what is going on under the hood  
+
+now this is the real rag system on display. So what is actually happening? I just described. How it collects the resources and, essentially you're saying to the LLM, Hey, you're an AI powered , resource assistant for Children's literacy, nonprofit, et cetera.
+
+Here's what the person search for. . And , all this is totally customizable. Summarize, choose the top five resources and return that back. So you can see this is everything that's being fed into the LLM, this is a transcript for the video.
+
+, And then you'll see some PDFs this is an exercise sheet, that sort of thing. So we're sending all, it's saying that, this is file six, this is file seven. And now organize and do some intelligence on those and summarize , and get that back to us.
+
+So that's what's happening under the hood. So a lot of opportunity to consider more deeply what would be the most helpful enhancement. And,. We look forward to a conversation on what is going to be the most effective for r. I'll quickly cover the technical concepts of what's going on under the hood , and how semantic search works. Having just covered what's going on under the hood of the LLM on the semantic search side, there are a  📍 few concepts to note: the Vector database.
+
+Chunks and embeddings. , I'll start with chunks. Let me go back to a prior search term. I'll turn the LLM mode off. Click search. Now, the chunks are these summary responses that you're getting that's matching the search query. So , in the case of this proof of concept, we did a very simple breakup. Each PDF or PowerPoint, slide by slide, page by page, I think 45 second intervals on the video.
+
+And then, , embed those into the vector database. So a PDF of 15 pages has 15 chunks. And what gets stored is the embedding.
+
+And the embedding is a large array of numbers that we can run algorithms to compare to other embeddings to see how similar they are in concept and meaning. And this is how language gets encoded into LLMs to be able to, , do mathematical expressions to compare and understand text better.
+
+ So in the case of Sounds and Spellings, it knows to match those closely to phone Eames and Graph Eames. And prediction means something very similar to the word guess. Then that's how those semantic matches are happening.
+
+On the actual implementation on rift.org, we'd likely use a hybrid approach that takes advantage of both keyword and semantic matching. And also has a more elevated level of interacting with the LLM in a way that , provides the most helpful, use case for the riff audience. 
+
+So that's what we wanted to show with the semantic concept, working the access to the PDFs , PowerPoints and video files, as well as how to enhance with ai. One last thing I'll show is this is the existing public. RIF org literacy central site. And if you do search with a question mark query term, it doesn't know what to do with it.
+
+It would be interesting to dive into the analytics of how many people are doing this already and are not getting the search results that are helpful to them so let's jump back to the slides.
+
+ Now   📍 we'll move from , , internal search to external search or discoverability. Did wanna make a few comments here about generative engine optimization geo. That was something you explicitly asked for. .
+
+  Or GEO there's also another acronym a EO often used interchangeably. , Which is answer engine optimization. , I like that framing a bit better 'cause I think it speaks more concretely to what you're really going after with optimizing this sort of search and discovery .
+
+and as we've incorporated  📍 these strategies at Savas, I just wanted to share  📍 some insights though, admittedly it's a broad topic. , The good news is that there's a lot of overlap between SEO and a EO.
+
+What is most important is, site structure, semantics, metadata, and , those apply to both . They're both cases where machines need to learn and understand what's going on within your web ecosystem,
+
+what is new is traffic that comes from LLMs. Those tend to be people who are quite literally deeper in conversation with their need and how your organization can help support it. And so the optimization isn't quite as much traffic focused as it.
+
+Previously would be with SEO, hitting a certain rank on a search results page. But this is more about higher intent, people who've had a deeper interaction about what they're seeking, and then ideally come to rif to find that. So your investment here may not yield the same traffic numbers, may yield higher quality. Folks. You're looking for like  📍 the registrants and , , sponsors  📍 cited  📍 in your KPIs. 
+
+I wanna briefly touch on where LMS are pulling this information from. Of course, with your own site, as you already mentioned, if it's structured, that's important, but one newer component is trending towards more q and a formats. Because that's how LLMs work and they understand and read that really well.
+
+And there are community sources like a Reddit, which LLMs rank really highly. And there are also opportunities for other channels where you have more control like YouTube to create your own content, especially if  📍 it's not in a
+
+ 📍 popular topic
+
+
+
+
+
+one other key factor is the breadth of citations is something that LMS  📍 rank better compared to,, just ranking highly
+
+on a Google search page.  One other thing I wanna mention is, there's a lot more surface area because people from an LLM are often having a conversation. There's more opportunity to answer questions in both, a broader and deeper way than a previous keyword selection and paid search. 
+
+So what are the things you should do and not do? Should definitely start to look at if you're not already tracking your share of a voice. And there are many services that do this, but help. To assess where you stand and as you experiment and make some updates, what are, what's the delta between those moves?
+
+, It's wise, of course, to review competitors and how they're positioning both in the questions that you think you may answer. , And the formats of  📍 the content that may be coming from an LLM to their sites. I've listed a few here. Those can be strong content types. , But really, if you're.
+
+You're seeing what's working for them. It's a good idea to, to match that. However, you do have to not just, , repeat ,  📍 but showing  📍 a genuine and authentic voice and contributing to the conversation is really important.
+
+We would recommend sourcing these question and answer dynamics both from the LLMs, from the competitors on their sites , and from paid keyword search that you may be doing. Are you aware that they are, as well?  Coincidentally, the big no-no here is to not solely rely on AI and push out that content surprisingly, that the robots know how to identify themselves well, and that's not gonna show up as authoritative and authentic and genuine. So avoid a GC AI generated content.
+
+ But since we're talking about a GC, let's talk about why A GC is great for riff..
+
+There are certain things that. AI is really strong at,, and we recommend, we at least look into together we think areas worth investing in are on the ideation and skeleton side of things.   AI is also really good at spelling and grammar and spacing, quality control, quality assurance,.
+
+The human certainly remains the primary decision maker, the approver,  📍 they'll create , the real content,  📍 and , the emotion behind it.  This is an opportunity for some degree of automation ,  📍 from simplistic agents that are scouring for trending topics automatically suggesting those as opportunities for RIF staff  📍 to explore for content creation .
+
+We made some suggestions months ago about content creation for some of the crossword puzzles and word searches and some of these things that would frankly be quite easy to automate creation for. But I do think there's a deeper opportunity here for us to better understand marketing goals. And I think those are well tied to in the KPIs of content that will be created to drive more traffic, how some of those workflows work internally and areas in which we can invest to make for a more efficient process where you're getting these sort of agent assistant to do the parts that it's good at, , while leaving the content creation and creative work to the human.   📍     There's opportunity to think about how to create the right mix of support from AI without delegating too much.
+
+And of course , never . Giving too much power, , to what is really important to speak authentically about the organization and its people. 
+
+We'd be remiss not to briefly mention a couple of engineering opportunities.
+
+We've clearly shown an ability to extract information from the PDFs , and leverage that, but also know that there could be opportunity of doing away with PDFs altogether. And to the degree that's possible, , a conversion into HDML , and having LLM assist with validating, , that process is , one in which we can imagine a lot of potential value for.
+
+  with regards to the taxonomy, potential cleanup for Literacy Central, , there could be LLM assisted review of pages. You could make some suggestions and we could automate staging of those updates to be approved by a human.
+
+There are countless other opportunities, but just wanted to mention those two as ones that came up organically in discussions and in the proposal.
+
+One area that   📍 we were pleased to see explicitly laid out in the proposal was the KPI section. And we see the most opportunity with AI personalization and
+
+aiming at some of these ambitious targets of,, improvement coming into 2026.
+
+This is an area where we see a deeper partnership and integration in some of the data systems that would , drive the success or achievement of the KPIs, to pull out the five x, , going from 12 to 60 and the partnership inquiries to development team
+
+there are certainly improvements that we will make to the conversion flow once someone lands on the page, but that strategy would need to be coupled with. A proactive approach that may leverage some of the CRM data, such that we can create unique experiences for those targets and provide behavior driven nudging for the kinds of people that we can identify as potential partners or registrants or newsletter signups.      📍 So we'll need to dive more deeply into the CRM QuickSight on the Amazon side, Salesforce interfacing with the data warehouse team to assess what insights we can derive and how we can match patterns of behavior that we want to keep nudging for the right kinds of folks.
+
+And I see that as a big area of opportunity that we will uncover the most. Not having spent a lot of time in those systems yet. I'll mention quickly two newsletter thoughts that are important to reducing friction. Reducing the amount of info that you ask for and helping enrich that profile over time.
+
+If you can just ask for name and email, it's ideal. And there's , strict formatting for your phone, number again, not making it mandatory, but then being able to parse whatever someone puts in there such that you're not creating unnecessary friction to sign up.
+
+ And last but not least, there is so much  📍 to be excited about and start to plan for and so much more yet to come. So this is a potentially a huge topic. , One  📍 area we're particularly excited about for RIF is advances that are coming down the pipe. Or fine tuned localized models that you can run and train on your own content.
+
+That's not a today thing, but as LMS get cheaper, more economic, easier to run, and more efficient as many are working on, , we can look at  📍 once your data is accessible , turning that all into. Really custom search that you're not having to go to a separate LLM, but a
+
+self-hosted, really rich, really specific to riff, that would go beyond the demo of the LLM interaction that I showed moments ago.  That's one example of potential opportunity for R. But there's plenty more we would look into across those domains. And as far as readiness goes, the two things that are most important are spending the strategic time to be thoughtful and plan for the now and the future, as well as getting your data tools, personnel already to be able to be more agile in the future, to take advantage of opportunities, and working together in this way is a great step forward in all of those  domains. . We're just scratching the surface of both , what's possible and strategically what makes the most sense for Rick, both now and in the future. , And we can't wait to discuss it with you. So until 2026.
+
+Sending the best from the Savas team to you and yours and the extended RIF family. Have a happy holiday and we'll see you in the new year.   Take care. 

@@ -1,0 +1,41 @@
+# Python
+**/.venv/
+**/venv/
+**/venv.backup.*/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Node
+**/node_modules/
+**/dist/
+**/build/
+
+# OS
+.DS_Store
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Data/Output (keep configs, not generated data)
+**/data/conversations/
+**/data/output/
+**/data/cache/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Note: .env files ARE tracked in this repo
+# These are non-production projects for learning/experimentation
+
+# These will be separate repos
+/projects/
+

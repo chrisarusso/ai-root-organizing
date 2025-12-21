@@ -1,0 +1,1211 @@
+Web Modernization & 
+Future Readiness Proposal
+READING IS FUNDAMENTAL  SAVAS LABS
+December 18, 2025
+
+
+Executive Summary 
+Given Savas Labs’ deep, established partnership with Reading Is Fundamental and our first-hand understanding of your 
+audiences, content, and digital ecosystem, we are well positioned to further strengthen our partnership and advance RIF’s 
+modernization and future readiness goals. Through prior strategy and delivery work, including rebuilding Skybrary and 
+supporting multiple discovery and planning phases that informed this RFP, we are able to build on shared understanding and 
+momentum, focusing on execution and impact rather than needing to establish context.  
+Our approach centers on strengthening how RIF’s technical architecture, data, and content are structured, discovered, and 
+experienced across RIF.org, Literacy Central, and Literacy Network. By thoughtfully streamlining and unifying these systems 
+where they deliver the most value, we will improve clarity, navigation, and performance while ensuring RIF’s most important 
+resources are easier to produce at high quality and more readily accessible for educators, families, partners, and funders.
+As part of the strategy phase, we are excited to offer at no cost our AI Readiness and Opportunity Assessment to ignite RIF’s 
+long-standing goal of becoming a more AI-forward organization, while preparing your data, processes, and teams to take 
+advantage in the near, medium, and long-term. The assessment will identify practical, responsible ways AI can improve 
+content discoverability, organization, and engagement, while also increasing the efficiency and quality of internal workflows 
+through a steadfast, human-centered approach. With a clearer foundation, shared priorities, and organizational readiness, 
+RIF will be better positioned to extend the reach and relevance of its content and people, and to translate those strengths into 
+measurable impact using the most powerful, modern tools. 
+We can’t wait to get started! 
+
+Table of Contents
+About Savas Labs
+Selected Work
+Strategy & Planning
+Global Implementation
+RIF.org | Donor Pages
+Literacy Central
+Literacy Network
+QA & Launch
+Engagement Team
+Schedule & Pricing
+Appendix
+Pages 410
+Pages 1128
+Pages 2933
+Pages 3440
+Pages 4144
+Pages 4554
+Pages 5558
+Pages 5962
+Pages 6365
+Pages 6675
+Pages 7788
+
+About Savas Labs
+SECTION 1
+
+ABOUT SAVAS LABS
+Our Expertise
+Savas Labs is a highly skilled team of designers, developers, and 
+consultants that build digital products that create meaningful impact.
+Planning & Strategy. We turn data into actionable insights to plan and shape projects that 
+serve business needs.
+User Experience & Visual Design. We pair years of UX design expertise with tailored 
+research for each new engagement to craft experiences that delight and more 
+importantly, achieve their objectives.
+Custom Application Development. Our expert engineers create elegant, performant, 
+effective applications for all device sizes and platforms.
+
+
+Weʼve had the privilege of partnering with Reading Is Fundamental 
+for over a year, working closely with your team across multiple 
+strategy and discovery phases that helped shape the vision and 
+direction reflected in this RFP. Through this work, weʼve built a 
+strong understanding of RIFʼs mission, audiences, and digital 
+ecosystem.
+Our collaboration includes rebuilding the Skybrary application and 
+redesigning skybrary.org, all in service of supporting children, 
+families, and educators to disrupt the literacy crisis. This shared 
+work has helped align digital strategy with organizational priorities 
+and establish a solid foundation for what comes next.
+With this context and momentum, weʼre excited to have the 
+opportunity to continue the partnership and further RIFʼs mission 
+to improve child literacy across the country.
+Reading Is Fundamental & Savas
+PREVIOUS WORK TOGETHER
+
+
+Our Commitments
+ABOUT SAVAS LABS
+Diversity
+Diverse teams produce 
+better work. Weʼre 
+committed to building a 
+diverse team, and 
+providing a platform for 
+marginalized voices in our 
+industry. We also prefer 
+to partner with 
+organizations that work to 
+create a more diverse
+and equitable world.
+READ MORE
+Equity
+An important part of 
+building towards an 
+equitable future for all is 
+understanding the history 
+of the battle for equity in 
+our communities. We 
+teamed up with our local 
+library to redesign a digital 
+exhibit on the history of 
+the fight for
+Civil Rights in Durham.
+VISIT SITE
+Accessibility
+Accessible design is 
+better for all users, 
+regardless of ability. We 
+build our apps to meet 
+WCAG 2.2 AA. As a result 
+we routinely perform 
+compliance testing, 
+including testing for 
+keyboard-only input, color 
+contrast, and
+screen readers.
+READ MORE
+Inclusion
+As part of our ongoing 
+commitment to inclusion, 
+we created a tool to help 
+stop the collection of 
+gender in online forms 
+where such information is 
+unnecessary, 
+exclusionary, or 
+discriminatory. The site is 
+also a resource guide and 
+primer on gender terms.
+VISIT SITE
+
+
+Our Clients
+ABOUT SAVAS LABS
+We treat our clients as our partners. Balancing 
+the needs of their audiences with business 
+goals, we build digital products that users love.
+We have a rich history working with leading 
+higher education brands, while also leveraging 
+the diverse experience from our enterprise 
+clients to incorporate the best in modern digital 
+innovation. Over the years weʼve been 
+fortunate to work with organizations that create 
+meaningful impact.
+34 REVIEWS
+
+
+Project Management 
+ABOUT SAVAS LABS
+Effective project management and stakeholder coordination are central to how we work at Savas Labs. Each engagement is led 
+by a dedicated project manager who serves as your primary point of contact and is responsible for coordinating our team, 
+maintaining alignment with Reading Is Fundamental stakeholders, and ensuring the project stays on schedule and within scope. 
+Our PMs bring experience in digital strategy, design, and technology, and focus on transparency, clear communication, and 
+proactive planning throughout the entire engagement. We are available to meet both virtually and in person, including for project 
+kickoff and key stakeholder sessions during discovery.
+Communication & Status Reporting: We provide regular status updates that outline progress, upcoming milestones, risks, 
+blockers, and budget tracking. These are shared through email, our project management platform Teamwork, or delivered in 
+meetings.
+Tracking Against Plans: Using Teamwork, our PM monitors tasks, timelines, and estimates in real time, ensuring we stay aligned 
+with the project plan. Any deviations are flagged early so that adjustments can be made collaboratively.
+Quality Checkpoints & Reviews: We schedule structured review points across key phases, bringing together the right 
+stakeholders from RIF and Savas to validate work, incorporate feedback, and maintain quality and alignment.
+Handling Delays & Blockers: If either team encounters delays or is unable to provide a needed deliverable on time, we 
+communicate immediately, propose solutions, and adjust plans as needed—ensuring issues are resolved quickly and with 
+minimal disruption.
+
+References
+ABOUT SAVAS LABS
+Daniel Mckenzie
+Director of Website Operations
+Environmental Defense Fund
+dmckenzie@edf.org 
+Jenny Matz
+Senior Director of Engagement Marketing
+UNC Charlotte
+jenny.matz@charlotte.edu
+Justin Weyman
+Associate Director, Digital Products
+Share Our Strength
+jweyman@strength.org
+
+
+Selected Work
+SECTION 2
+
+Case Studies
+SELECTED WORK
+Given our interest in working with 
+your team we have provided a 
+collection of relevant and recent 
+case studies in the slides to follow 
+that demonstrate our experience in a 
+broad spectrum of work. You may 
+peruse more case studies on our 
+website.
+View our Collection of Work
+
+
+UNC Charlotte
+Objective:
+The Universityʼs decentralized digital ecosystem—spanning more than 600 domains 
+and subdomains—lacked consistency in branding, usability, and governance. 
+Without a shared framework, individual sites diverged from brand standards, 
+resulting in fragmented experiences and a diluted institutional presence.
+Approach:
+We created a flexible design system grounded in atomic design principles, including 
+a comprehensive component library and a Content Creator Guide. Our system was 
+built based on user research, analytical insights and extensive stakeholder 
+workshops. Together, these tools provide clear standards and governance while 
+enabling distributed teams to build cohesive, on-brand sites independently.
+Results:
+While the system continues to roll out across the University, early adoption has 
+already delivered meaningful results. Teams now have a system that streamlines 
+content creation and adheres to brand standards. This has accelerated site 
+development and established a scalable foundation for ongoing growth. The 
+success of this approach has led to continued collaboration, with Savas Labs now 
+supporting the University across 14 projects and counting.
+SELECTED WORK  
+
+Screenshots from the Discovery Report for UNC Charlotte
+
+Moodboards for UNC Charlotte.
+
+Pages from the Content Creator Guide for the UNC Charlotte design system.
+
+Organisms from the UNC Charlotte design system.
+
+Complete reorganization of programmatic information and custom filter system for the academics subdomain for UNC Charlotte.
+
+Environmental Defense Fund
+Objective:
+Our work on the Environmental Defense Fund's EDF 
+digital magazine, Vital Signs, is a comprehensive 
+example of leveraging digital innovation to amplify 
+environmental advocacy. 
+Approach:
+The project transitioned EDF's rich printed materials into 
+an engaging digital format, focusing on educating 
+audiences, showcasing storytelling, and raising brand 
+awareness.
+Results:
+Our collaborative efforts led to a radical reinvention of 
+the publication design experience, benefitting both 
+readers and EDFʼs team of content creators who are able 
+to share their stories in the most dynamic and impactful 
+way possible.
+Read the Case Study
+SELECTED WORK  
+
+Mood board for the EDF Vital Signs website design project.
+
+Page layouts for the EDF Vital Signs website design project.
+
+Component System for the EDF Vital Signs website design project.
+
+White House Historical Association
+Objective:
+The primary aim was to rejuvenate the aging website, 
+which had surpassed seven years in operation, by 
+modernizing user experience and functionality. This 
+revitalization was crucial to meet contemporary user 
+expectations and support future scalability, especially in 
+terms of site navigation and search capabilities.
+Approach:
+A strategic overhaul of the current website, allowing for 
+a phased development approach, ensuring a seamless 
+transition and continuous enhancement of the user 
+interface. 
+Results:
+We were able to give whha.org the facelift that it 
+needed, a website that is scalable, in line with the needs 
+of its stakeholders and users, and will provide an 
+excellent experience for years to come.
+SELECTED WORK  
+Read the Case Study
+
+Hero section and creative direction for White House Historical Association
+
+Homepage design for White House Historical Association
+
+Mega menu structure for White House Historical Association
+
+Digital Library and Portfolio display pages for White House Historical Association
+
+Collections and Digital Media for White House Historical Association
+
+Strategy & Planning
+SECTION 3
+
+Stakeholder Workshops 
+STRATEGY & PLANNING
+Stakeholder workshops are designed to align RIFʼs internal teams around shared goals, clarify priorities, and 
+inform key strategic decisions before design and development begin. These collaborative sessions allow us to 
+gather input across audiences, content, and technical considerations, validate assumptions, and surface 
+opportunities and constraints early in the process. Insights from these workshops will directly inform 
+recommendations related to user journeys, content strategy, information architecture, and platform structure, 
+helping ensure the resulting solutions are well aligned with RIFʼs mission, operational realities, and long-term 
+digital goals.
+DELIVERABLES
+● RIF Donor Pages Partner Journey - Evaluates and improves the donor and partner experience across RIFʼs 
+branded donor pages, with alignment on goals and partnership storytelling.
+● Literacy Central Strategy & Experience - Aligns on Literacy Centralʼs role as the primary hub for educators 
+and families, focusing on content organization, taxonomy, and experience design.
+● Literacy Network Strategy - Aligns stakeholders on the future role of Literacy Network through a shared 
+evaluation of consolidation into Literacy Central versus maintaining a streamlined standalone presence.
+● Unified Search Strategy - Examines how users discover content across RIFʼs digital properties and evaluates 
+the value of a unified search experience across all three verticals.
+
+
+Metrics & Competitor Benchmarking
+STRATEGY & PLANNING
+DELIVERABLES
+● Baseline User Metrics
+● Baseline Search & Discovery 
+Metrics
+● Competitor Benchmarking
+We will focus on establishing a clear performance baseline 
+across RIFʼs three digital verticals to inform decision-making 
+and measure success over time. We will review existing 
+analytics and reporting to establish baseline metrics for new 
+and returning users, engagement, and key behavioral 
+indicators, providing support where needed to ensure metrics 
+are consistently defined across platforms. We will also analyze 
+how users are discovering each vertical, including traditional 
+channels such as organic search and referrals, as well as 
+emerging AI-assisted discovery patterns, to better understand 
+acquisition and entry points. In parallel, we will conduct a 
+competitive benchmarking analysis against comparable 
+education resource platforms, including ReadWorks and 
+CommonLit, to contextualize RIFʼs performance and identify 
+opportunities to strengthen reach, engagement, and 
+discoverability.
+
+Page Inventory & Content Mapping
+STRATEGY & PLANNING
+DELIVERABLES
+● Page inventory
+● Duplicate content pruning
+● Content reorganization
+● Content migration plan
+This phase focuses on creating a clear, actionable 
+understanding of RIFʼs existing content across all three 
+verticals. We will inventory current pages to identify 
+duplication, gaps, and opportunities for consolidation, while 
+working with stakeholders to determine what content should be 
+retained, updated, reorganized, or retired. Insights from this 
+work will inform a practical content reorganization and 
+migration plan that supports improved discoverability, clearer 
+user journeys, and a more maintainable CMS moving forward.
+
+Roadmap Delivery
+STRATEGY & PLANNING
+DELIVERABLES
+● Product Roadmap 
+○ Feature Prioritization
+○ Project Schedule & Delivery Plan
+Bringing together insights from stakeholder workshops, metrics 
+analysis, and content planning, we will deliver a clear, 
+actionable product roadmap that translates strategy into 
+execution. The roadmap will clearly distinguish must-have 
+requirements from nice-to-have enhancements across all three 
+verticals, helping align priorities, manage tradeoffs, and ensure 
+the project is delivered on time and within budget. This 
+roadmap will serve as a shared reference point for sequencing, 
+resourcing, and implementation planning moving forward.
+
+Global Implementation
+SECTION 4
+
+Navigation & IA
+GLOBAL IMPLEMENTATION
+PROPERTIES TO BE UPDATED
+● RIF.org | Donor Pages
+● Literacy Central
+● Literacy Network
+DELIVERABLES
+● Information Architecture
+● Sitemap
+● Navigation & Footer
+Building on the page inventory and content mapping work, we 
+will redesign the information architecture to ensure content 
+across all three verticals is organized in a clear, intuitive, and 
+audience-focused way. This work will focus on defining logical 
+content groupings, reducing duplication, and clarifying how 
+users navigate between and within verticals. Updates to the 
+sitemap, navigation, and footer will reflect these decisions, 
+helping users quickly find relevant content while reinforcing 
+each verticalʼs role within the broader RIF ecosystem and 
+supporting long-term scalability and maintainability.
+
+Single Sign-on
+GLOBAL IMPLEMENTATION
+PROPERTIES TO BE UPDATED
+● Literacy Central
+● Literacy Network
+DELIVERABLES
+● SSO strategy and recommendation
+● SSO integration
+● Unified authentication across 
+platforms
+Unifying authentication across Literacy Central, Literacy Network, and 
+Literacy Tracker is a key opportunity to simplify the user experience, 
+reduce account duplication, and improve data consistency across 
+platforms. Rather than requiring users to manage multiple accounts, a 
+shared SSO approach will allow educators and related audiences to 
+access RIF tools through a single, familiar login, while giving RIF a 
+clearer, more centralized view of user activity and engagement.
+Based on our technical assessment, we recommend implementing 
+Google Workspace SSO using OpenID Connect OIDC) rather than 
+integrating directly with Google Classroom. While Google Classroom is 
+widely used by educators, it is not an identity provider and does not 
+provide additional SSO value unless roster or coursework 
+synchronization is required, which would significantly expand scope. 
+Google Workspace authentication provides a standards-based, 
+scalable solution that integrates cleanly with Drupal 10 and supports 
+unification across all three properties, while still aligning with RIFʼs goal 
+of leveraging tools educators already use.
+
+
+Web Vitals Report
+GLOBAL IMPLEMENTATION
+PROPERTIES TO BE UPDATED
+● RIF.org | Donor Pages
+● Literacy Central
+● Literacy Network
+DELIVERABLES
+● Core Web Vitals performance 
+report
+● Performance improvement 
+recommendations
+● Ongoing optimization guidance
+To support a fast, reliable user experience across all three 
+verticals, we will assess current site performance using 
+industry-standard tools such as Google Lighthouse. This 
+assessment will focus on Core Web Vitals and related 
+performance indicators to identify opportunities to improve 
+page speed, responsiveness, and stability. Findings from this 
+report will inform targeted recommendations for performance 
+enhancements and provide a foundation for ongoing monitoring 
+and continuous improvement.
+
+
+Security Plan 
+GLOBAL IMPLEMENTATION
+PROPERTIES TO BE UPDATED
+● RIF.org
+● Literacy Central
+● Literacy Network
+DELIVERABLES
+● Security Plan & Recommendations
+● Solution Implementation
+To support a stable and reliable digital ecosystem, we will 
+define a security approach that protects RIFʼs digital properties 
+while preserving access for legitimate users and approved 
+agents. A key focus will be addressing unwanted automated 
+traffic and other security risks without introducing unnecessary 
+friction for educators, partners, or systems that require access. 
+The goal is to establish a clear, security baseline that can 
+evolve as needs change.
+Our initial recommendation is a phased implementation of 
+Cloudflare, starting with the free tier to provide immediate 
+improvements in traffic visibility, baseline bot mitigation, CDN 
+support, and DDoS protection. This approach allows RIF to 
+quickly improve protection and observe traffic patterns, with a 
+clear path to more advanced controls such as rate limiting, 
+enhanced bot management, and agent allowlisting if additional 
+safeguards become necessary.
+
+
+Drupal Upgrade
+GLOBAL IMPLEMENTATION
+PROPERTIES TO BE UPDATED
+● RIF.org
+● Literacy Central
+● Literacy Network
+DELIVERABLES
+● Drupal 11 Readiness Assessment 
+● Core and Module Updates
+● Post-Upgrade Validation
+Our first step will be to run a Drupal 11 readiness and status 
+check across all three sites to identify deprecated modules, 
+custom code impacts, and any potential blockers. Assuming no 
+blocking issues or higher-priority constraints, we recommend 
+completing the Drupal 11 upgrade early in the engagement to 
+reduce technical debt and streamline downstream design and 
+development work.
+
+SEO & GEO/AEO
+GLOBAL IMPLEMENTATION
+PROPERTIES TO BE UPDATED
+● RIF.org | Donor Pages
+● Literacy Central
+● Literacy Network
+DELIVERABLES
+● Technical SEO Implementation
+● Metadata Framework 
+● Heading Structure and Theme 
+Updates
+Building on insights from our strategy work and prior audits, we 
+will focus on improving discoverability, performance, and 
+content quality across all three verticals. This includes 
+prioritizing and executing technical SEO fixes already identified, 
+while ensuring the CMS and content entry experience support 
+long-term SEO and GEO best practices without introducing 
+technical or taxonomical debt. Improvements will emphasize 
+mobile-first performance, accessibility, and structured content 
+to better support both traditional search and emerging 
+AI-driven discovery.
+At the CMS and theme level, this work will include establishing 
+default metadata, enabling per-page metadata control, and 
+addressing critical heading hierarchy and structural issues to 
+ensure consistency and scalability. Together, these updates will 
+help ensure RIFʼs content is easier to manage, easier to 
+discover, and positioned for ongoing optimization.
+
+RIF.org | Donor Pages
+SECTION 5
+
+Partnership User Journey 
+& UX Enhancements
+RIF.ORG | DONOR PAGES
+DELIVERABLES
+● User Journey Mapping
+● Conversion Optimization
+● Up to 3 New Components
+● Page Layout Updates
+○ Partner With Us
+○ Corporate Partners
+○ Foundation Partners
+○ Case Studies
+Building on the SEO and content audit work completed in 
+TO03, we will revisit and refine the corporate and foundation 
+partner journey to increase qualified traffic and improve 
+conversion. This work focuses on clarifying messaging, 
+strengthening storytelling, and optimizing key partnership 
+pages to better support discovery, engagement, and 
+submissions to the development team. Updates may include 
+refreshed layouts and targeted component enhancements 
+designed to better highlight partner impact and guide users 
+toward action.
+
+
+
+
+Interactive Map
+RIF.ORG | DONOR PAGES
+DELIVERABLES
+● Interactive Map
+● Individual Region/State Detail Page 
+Template Single page, content 
+implementation not included)
+● Literacy Statistic Page Layout
+A better interactive map might present the following at both a 
+national and regional level: statistics about the literacy crisis; 
+RIFs impact as measured through program sites, books 
+distributed, children impacted, advocates activated; as well as 
+RIF-led events. Weʼll explore the data we have access to 
+through Salesforce and other sources, determine the most 
+effective way to use and present it, as well as implement it.
+As an addition to the map, we will create individual pages at 
+either the regional or state level to further break down literacy 
+statistics, program details and other ways to get involved.
+
+
+Literacy Central
+SECTION 6
+
+Browsing & UX Enhancements
+LITERACY CENTRAL
+DELIVERABLES
+● View Components
+● Book & Resource Card Component
+● Page layout updates
+● Filter Functionality & UI Update
+● Backend Development &
+Resource Remapping
+Building on the Discovery work already completed for Literacy 
+Central, we will refine how resources are organized and presented 
+to support a more intuitive, education-centric browsing experience. 
+This includes finalizing a condensed set of Genres and Themes, 
+refining filtering behavior, and programmatically remapping 
+resources to improve clarity and findability. We will also introduce 
+curated Collections that group resources around themes, audiences, 
+or moments, supporting both everyday discovery and the automated 
+promotion of timely content tied to holidays, special events, and 
+national moments.
+In parallel, we will identify opportunities to modernize the existing 
+theme and introduce targeted layout and component updates where 
+needed to better support priority user groups. This work may also 
+include strengthening connections between related resources, such 
+as interactive puzzle pages, to help students move through content 
+more easily without direct adult support.
+
+
+
+
+AI-Powered Resource Generation
+LITERACY CENTRAL
+DELIVERABLES
+● Customize AI Tool
+● Testing for Alternative Book-related 
+Content
+Many of the books in Skybrary and Literacy Central are missing 
+supplemental resources such as word searches, crosswords, 
+and memory-matching activities. As part of this work, we can 
+explore the usefulness to RIF to leverage AI tools to efficiently 
+generate this type of content at scale, helping expand RIFʼs 
+resource library without placing additional burden on staff. This 
+exploration would focus on integrating AI into internal 
+workflows rather than user-facing experiences, and could lay 
+the groundwork for future applications such as user-generated 
+vocabulary sets, lesson plans, and discussion or 
+comprehension questions.
+
+
+User Journey Mapping
+LITERACY CENTRAL
+DELIVERABLES
+● Homepage Redesign
+● Families Page Layout
+● Teachers Page Layout
+● Volunteers Page Layout
+In addition to revamping the browsing experience of the 
+Resource Hub which is agnostic to the audience that is using it, 
+we would also like to take a closer look at how we could curate 
+a more customized experience for Families, Teachers and 
+Volunteers. This would include revamping the homepage and 
+individual pages that specifically target our individual 
+audiences.
+
+
+Training & Resources
+LITERACY CENTRAL
+DELIVERABLES
+● Professional Development Hub
+● Training resource migration
+● Webinar content organization
+We will consolidate training and professional development 
+resources into Literacy Central, establishing it as the primary 
+hub for teachers and families seeking guidance on how to use 
+RIFʼs resources effectively. This includes migrating professional 
+development content, primarily webinars, from Literacy 
+Network and redesigning how these materials are organized 
+and delivered so users can engage with them intuitively and at 
+their own pace.
+The Professional Development Hub will be designed to support 
+a growing library of video-based content and position Literacy 
+Central as a repeat destination for educators. The structure will 
+be built with scalability in mind, allowing RIF to evolve this hub 
+over time and explore future enhancements, including 
+AI-supported content experiences, as priorities and tools 
+mature.
+
+
+Search Enhancements
+LITERACY CENTRAL
+DELIVERABLES
+● Search Functionality Updates
+● UI Updates
+● Refreshed Search Results Page
+● AI-assisted Search Recommendations
+Improving search is a key opportunity to help users quickly find 
+relevant resources and better support discovery-driven 
+browsing across Literacy Central. Building on recommendations 
+from the Discovery Phase, we will enhance search functionality 
+to deliver more intuitive, relevant results informed by content 
+structure, taxonomy, and user intent. To help ground this 
+conversation, we have included an early search experience 
+mockup alongside this proposal to illustrate potential directions 
+and inform discussion during discovery.
+As part of this effort, we will also explore the potential for 
+AI-assisted search experiences trained on RIFʼs content library, 
+including web content, PDFs, presentations, and video 
+resources. Any AI-supported enhancements would be 
+considered in the context of usability, scalability, and value, 
+with recommendations aligned to RIFʼs goals and readiness.
+
+
+
+
+Registered Users | Feature Enhancements
+LITERACY CENTRAL
+DELIVERABLES
+● Define Registered Users Features
+● Detailed Estimates & 
+Implementation Plan
+● Account registration conversion 
+pathways
+● Newsletter sign-up optimization
+Registered user functionality presents an opportunity to deepen 
+engagement and better support how educators and families use 
+and share resources. We will evaluate ways to enhance 
+registered user experiences so teachers and educators can 
+more easily curate and share resources with parents, and 
+support more structured learning pathways for children. In 
+parallel, we will define and optimize conversion pathways for 
+account registration and newsletter sign-ups, exploring how 
+existing and new tools such as the Puzzle Maker and Literacy 
+Tracker can be leveraged as incentives to encourage account 
+creation.
+
+
+Multilingual Features
+LITERACY CENTRAL
+Supporting multilingual access is an important consideration for Literacy Central, both to better serve diverse 
+audiences and to meet partner requirements. We will evaluate scalable approaches for enabling translation across 
+Drupal-managed content, with an emphasis on solutions that are sustainable, editor-friendly, and able to grow over 
+time. This work will build on RIFʼs current use of WeGlot for select pages and explore whether multilingual support 
+should be expanded more broadly across the site.
+We will outline and assess two primary approaches, highlighting trade offs related to scalability, editorial control, 
+long-term flexibility, and integration with future enhancements such as AI-powered search. While the primary focus 
+will be Drupal-stored content, we can also explore options for extending translation support to PDFs, presentations, 
+and video transcripts as a future consideration.
+OPTIONS
+● Drupal Native Multilingual + Machine Translation Recommended) - Leverages Drupalʼs core multilingual 
+capabilities combined with machine translation, allowing translated content to live directly in the CMS and remain 
+fully editable by site editors. This approach prioritizes long-term scalability, editorial control, and flexibility.
+● Weglot SaaSBased Translation Layer) - Extends RIFʼs existing WeGlot usage to additional pages or the full site, 
+enabling fast rollout with minimal Drupal configuration, but with translations managed outside the CMS and 
+increasing costs as content volume grows.
+
+
+Literacy Network
+SECTION 7
+
+Option 1: Theme Installation 
+& Content Migration
+LITERACY NETWORK
+DELIVERABLES
+● Theme Installation
+● Remapping of Content Migration)
+● Content Pruning Archiving legacy 
+content that is no longer needed)
+Following the strategy phase, we will have a clear path forward 
+for Literacy Network. This option keeps Literacy Network a 
+distinct property within RIFʼs digital ecosystem, focused on 
+volunteers, program implementers, and community partners. 
+Building on prior discovery work, we would modernize Literacy 
+Network by importing the existing RIF.org donor pages theme, 
+with the option to apply a differentiated child identity or color 
+palette to maintain visual distinction while aligning with the 
+broader ecosystem.
+Existing content would be audited, cleaned up, and migrated 
+into the updated theme, with only priority pages and workflows 
+carried forward. The result is a more maintainable, clearly 
+scoped vertical that improves the content editing experience 
+for internal teams while preserving Literacy Networkʼs unique 
+role.
+
+
+User Journey Mapping & IA
+LITERACY NETWORK
+DELIVERABLES
+● User Journey Mapping
+● Navigation Updates
+● Content Strategy
+● Up to 8 Page Layouts
+Once the content mapping exercise has been completed for all 
+three entities the Literacy Network site would benefit from 
+doing a workshop to establish User Journeys for its core 
+audience members. This can be a relatively light lift and will 
+impact the page layouts for the priority pages of the website. 
+We will revisit the navigation structure to match the newly 
+created content model and better serve your target audiences. 
+The next step will be to create up to 8 new page layouts 
+leveraging the newly installed theme from RIF.org to improve 
+the user experience for your users.
+
+
+Option 2: Consolidate Literacy Network 
+into Literacy Central
+LITERACY NETWORK
+DELIVERABLES
+● Literacy Network Content 
+Consolidation
+● Dedicated Literacy Network 
+Landing Page
+● Content Pruning Archiving legacy 
+content that is no longer needed)
+● Content migration into Literacy 
+Central
+● Navigation and IA updates within 
+Literacy Central
+Under this option, Literacy Network would be sunset as a 
+standalone site, with its highest-value content and functionality 
+integrated into Literacy Central. Content supporting volunteers, 
+program implementers, and community partners would be 
+reorganized and incorporated into existing or new sections 
+within Literacy Central, with a dedicated landing page to 
+highlight key resources and entry points for these audiences.
+This approach reduces platform complexity, simplifies ongoing 
+maintenance, and clarifies user pathways by consolidating 
+educator- and volunteer-focused content into a single, more 
+discoverable hub. It also eliminates the need to maintain a 
+separate site and associated navigation, theming, and 
+authentication, allowing future enhancements to focus on a 
+unified platform.
+
+
+QA & Launch 
+SECTION 8
+
+Training & Documentation
+QA & LAUNCH
+DELIVERABLES
+● Editor Training Session
+● Developer Handoff & 
+Documentation
+● CMS Guide & Documentation
+● Governance Guide
+To support a smooth launch and long-term success, we will 
+provide clear training and documentation for both RIFʼs 
+engineering and content teams. Training sessions will focus on 
+using the CMS effectively, including managing components and 
+templates, creating and updating content, and understanding 
+key workflows. In parallel, we will deliver concise 
+documentation covering editorial guidelines, governance 
+considerations, and technical reference materials to help RIF 
+confidently maintain and evolve the platform over time.
+
+
+Quality Assurance 
+QA & LAUNCH
+DELIVERABLES
+● QA test plan
+● WCAG accessibility validation
+● Functional and regression testing
+● Cross-browser and device testing
+Quality assurance will be treated as a defined, documented 
+workstream to ensure launch readiness across all three 
+verticals. We will develop a concise QA test plan and execute 
+structured testing across key user, editorial, and administrative 
+workflows to reduce risk and ensure stability. This process will 
+include functional testing, regression testing, and 
+cross-browser/device validation, with a specific emphasis on 
+meeting WCAG accessibility standards.
+Testing results will be tracked, validated, and resolved through 
+a clear issue management process, culminating in final 
+pre-launch smoke testing and QA sign-off to support a 
+confident launch.
+
+
+Post-Launch Support
+QA & LAUNCH
+DELIVERABLES
+● Post-launch bug fixes
+● Issue resolution and stabilization
+● Launch monitoring
+● Long-term support planning 
+discussion
+Following launch, we will provide 3060 days of post-launch 
+support focused on addressing bugs, resolving issues, and 
+ensuring the platform is operating as expected. This period 
+allows time to monitor performance, validate real-world usage, 
+and make any necessary adjustments as users begin 
+interacting with the site.
+As part of this phase, we can also collaborate with RIF to review 
+longer-term support and maintenance options, aligning on an 
+approach that best supports ongoing needs, priorities, and 
+capacity.
+
+
+Engagement Team
+SECTION 9
+
+PROPOSED PROJECT TEAM
+Luzia is a creative thinker and problem solver that has delivered successful projects from 7Eleven to her 
+local SPCA. Based out of Richmond, Virginia, she studied Sculpture and Art History at Virginia 
+Commonwealth University. From there, her love of design combined with an analytical approach has given 
+her a unique set of skills that drive success and momentum forward. She enjoys collaboration with others 
+and finding the missing puzzle piece. Since embarking on her project management career five years ago, 
+sheʼs managed a spectrum of projects in the digital product, creative agency, and logistics industries.
+Dan has worked as a web engineer since 2013 first specializing in the Drupal platform, developing 
+back-end solutions and, since early 2024, has focused on AI strategy and research for Savas Labs and our 
+clients. When heʼs not nerding-out over the transformational power of AI, Dan teaches math as an adjunct 
+instructor for Northeastern University. He also loves to spend his free time rock climbing, snowboarding, 
+and generally enjoying the great outdoors. Prior to web development, Dan worked for a multinational 
+aerospace and defense company as a mechanical engineer. He received his B.S. in mechanical 
+engineering from Tufts University and his M.B.A. from Babson College.
+Matt has been building websites since 2003, writing simple HTML in Notepad. A graduate of the College of 
+Design at NC State University, he has designed, built, and animated for clients like IBM, Nationwide, 
+CenturyLink, and Meijer. In addition to big brands heʼs built websites for large universities like Towson, 
+Ohio Wesleyan, and Lafayette College. Prior to joining Savas Labs he helped run a boutique agency 
+building WordPress sites for global brands like Bacardi, Thought Catalog, and Case IH.
+Luzia Bryant
+Lead Project Manager
+Matt Hisamoto
+Lead Front-End Developer
+Dan Murphy
+AI Strategist / Lead Engineer
+
+
+PROPOSED PROJECT TEAM
+Jayson earned a BFA in Graphic Design from Appalachian State University. In 2014, he began his career 
+designing websites, logos, and branding collateral for a range of clients like the St. Louis Art Museum, 
+Duke University, and RTI International. Since then, heʼs delved deeply into the science of user experience 
+designing apps from the ground up, including an automated marketing tool called ZIRE, which was 
+acquired in 2021. While his heart yearns for standout visual delight, he prides himself on building simple, 
+effective tools that optimize for user experience.
+With over 15 years of experience in the creative industry, Ianʼs focus is centered around growth driven 
+design and ensuring that the digital solutions created drive organizational results. Ianʼs background 
+includes running his own design studio for a decade and building high-performing design departments 
+within a fast-paced agency environment. His strengths lie within collaboration and leading teams forward 
+to solve complex problems using creativity and out of the box solutions. Ian has led visual design on 
+projects with nonprofits like The Environmental Defense Fund, The White House Historical Association and 
+The Cancer Support Community.
+Maddy is a leader in architecting robust and maintainable CMSes, and known for building teams that take 
+pride in writing clean, accessible code. With a decade of experience spanning diverse industries and 
+global contexts, she combines technical excellence with a consultative mindset to craft user-centered 
+digital solutions. Maddyʼs approach to problem-solving is both strategic and forward-thinking, ensuring 
+every project she leads not only meets but exceeds client expectations. At Savas Labs, Maddy has 
+spearheaded transformative digital initiatives for organizations such as Duke University, Reading Is 
+Fundamental, the White House Historical Association, and New York Cares.
+Jayson Morse
+Senior Product Designer
+Maddy Closs
+Director of Engineering
+Ian Curran 
+Director of Design
+
+
+Schedule & Pricing 
+SECTION 10
+
+Strategy
+SCHEDULE & PRICING
+ Phase Estimated
+Hours Cost: Low Cost: High
+Stakeholder Workshops 20  35 $4,000 $7,000
+Metrics & Competitor Benchmarking       20  30 $4,000 $6,000
+Page Inventory & Content Mapping 40  80 $8,000 $16,000
+Roadmap Delivery 25  30 $5,000 $6,000
+Totals 105  175 $21,000 $35,000
+
+Global Implementation
+SCHEDULE & PRICING
+Phase Estimated
+Hours Cost: Low Cost: High
+Navigation & IA 85  140 $17,000 $28,000
+Single Sign-on      130  175 $26,000 $35,000
+Web Vitals Report 10 $2,000
+Security Plan 10  30 $2,000 $6,000
+Drupal Upgrade 110  215 $22,000 $43,000
+SEO & GEO 125 200 $25,000 $40,000
+Totals 470  770 $94,000 $154,000
+
+RIF.org | Donor Pages
+SCHEDULE & PRICING
+ Phase Estimated
+Hours Cost: Low Cost: High
+Interactive Map      300  375 $60,000 $75,000
+Revamp Partnership Journeyand Component 
+Updates 125  175 $25,000 $35,000
+Totals 425  550 $85,000 $110,000
+
+Literacy Central
+SCHEDULE & PRICING
+ Estimated
+Hours Cost: Low Cost: High
+Browsing & UX Enhancements 385  630 $77,000 $126,000
+AIPowered Resource Generation 60  120 $12,000 $24,000
+User Journey Mapping     105  175 $21,000 $35,000
+Training Resources & Webinars 115  200 $23,000 $40,000
+UX Search Enhancements 25  85 $5,000 $17,000
+Semantic Search Implementation 200  300 $40,000 $60,000
+Registered User Enhancement / Customization 15  30 $3,000 $6,000
+Multilingual Features 30  50 $6,000 $10,000
+Totals 935  1590 $187 ,000 $318,000
+
+Literacy Network 
+SCHEDULE & PRICING
+ Phase Estimated
+Hours Cost: Low Cost: High
+Option 1 Theme Installation & Content 
+Migration 105  190 $21,000 $38,000
+Option 1 User Journey Mapping 15  25 $3,000 $5,000
+Option 2 Consolidate Literacy Network into 
+Literacy Central 95  180 $19,000 $36,000
+Totals 95  215 $19,000 $43,000
+Note: Option 2 hours are not reﬂected in the total estimate. Final totals will be adjusted based on the selected approach.
+
+QA & Launch
+SCHEDULE & PRICING
+ Phase Estimated
+Hours Cost: Low Cost: High
+Training & Documentation 10  20 $2,000 $4,000
+Quality Assurance Testing & Implementation 100  170 $20,000 $34,000
+Post-Launch Support 35  70 $7,000 $14,000
+Totals 145  260 $29,000 $52,000
+
+Web Modernization & Future Readiness
+SCHEDULE & PRICING
+At the conclusion of the strategy phase 
+alongside the delivery of the roadmap, in 
+partnership with RIF, we will shape a scope that 
+aligns with goals, budget constraints and 
+maximizing impact.
+ 
+Phase Price
+Phase 1
+Strategy & Planning $21,000 $35,000
+Phase 2
+Global Implementation $94,000 $154,000
+Phase 3
+RIF.org | Donor Pages $85,000 $110,000
+Phase 4
+Literacy Central $187,000 $318,000
+Phase 5
+Literacy Network $19,000 $43,000
+Phase 6
+QA & Launch $29,000 $52,000
+Totals $435,000 $712,000
+
+Assumptions
+SCHEDULE & PRICING
+Sharing a proposed approach for a project 
+before working together naturally comes 
+with a host of assumptions. We have 
+enumerated them from our perspective to 
+ensure we align on any areas of uncertainty 
+before getting started together.
+Copywriting
+Estimates do not include copywriting or content creation. We 
+can provide copy support and separate estimates if needed.
+Technical Audits
+Based on the strategy work completed to date, additional 
+technical audits have not been included. We can reassess if 
+new risks or requirements are identified. 
+Media Types & Multi-Modal Content
+The platform will be structured to support additional media 
+types in the future. Specific implementation of audio, 
+text-to-speech, or other multi-modal formats is not included 
+and would be scoped separately. 
+Literacy Network Direction
+Estimates assume Literacy Network remains a standalone site. 
+Consolidating Literacy Network into Literacy Central may shift 
+scope and effort across workstreams and will be evaluated 
+early in strategy and planning.
+
+
+Assumptions
+SCHEDULE & PRICING
+ Drupal Upgrade Scope
+Assumes upgrading all three sites to the latest version of 
+Drupal as part of the engagement.
+Competitor Benchmarking & Metrics
+Assumes access to existing analytics and reporting (e.g., 
+Google Analytics) to establish baseline metrics and support 
+competitor benchmarking.
+Semantic Search Enhancements
+Assumes integrating semantic search into existing site, with 
+AILLM enhancements to be determined in partnership with 
+RIF in strategy phase. 
+
+We look forward to 
+partnering with you.
+Reading Is Fundamental is seeking a partner who can help translate the impact of your work 
+into a digital experience that is clear, credible, and built for the future. At Savas Labs, weʼre 
+excited for the opportunity to collaborate with your team and bring that vision to life. Our 
+approach prioritizes alignment, transparency, thoughtful design, and sustainable technology, 
+ensuring the new site not only reflects who you are today, but supports the evolution of your 
+mission for years to come. We look forward to working closely together to create a platform 
+that strengthens how the world engages with RIFʼs vital work.
+Chris Russo | Chief Executive Officer  | chris@savaslabs.com | 510 9274253
+
+
+Appendix
+
+AI Opportunity
+Assessment
+APPENDIX | ADDITIONAL 
+To take advantage of AI in the short-term, and 
+maximize future opportunity, we are offering our AI 
+Assessment at no cost!
+Weʼve identified a number of initial opportunities in the 
+slides to follow, but look forward to focused research 
+and collaboration on what AI can do for RIF and your 
+impact.  
+The assessment will uncover practical, near-term 
+impact while positioning the organization to take 
+advantage of future AI advancements.
+AI Readiness & Opportunity Assessment →
+
+Our Philosophy
+APPENDIX | ADDITIONAL 
+- Human-centered
+- Does not replace, augments
+- More creative, strategic, human work
+- Less repetition 
+
+
+Semantic Search
+& RAG
+APPENDIX | ADDITIONAL 
+Opportunity
+- Access to currently locked information in 
+PDFs, Powerpoints, and videos… and 
+also podcasts
+- Semantic to better match query meaning
+- Powerful LLM integration to enhance
+
+
+Discoverability: GEO
+APPENDIX | ADDITIONAL 
+Whatʼs the same (overlap with SEO
+- Structure
+- Semantics
+- Metadata
+Good news: improvements help both
+Whatʼs new:
+- Less about raw traffic
+- More about intent quality
+- LLM-driven visitors are often:
+- Deeper in funnel
+- More motivated
+
+
+GEO / AEO Continued
+APPENDIX | ADDITIONAL 
+Where LLMs Pull Authority
+- Your own site (structured, Q&A-driven content)
+- Community sources:
+- Reddit 
+- YouTube
+- Multiple citations > single ranking
+Opportunity
+- Answer real questions publicly
+- Get varied citations
+- Long-tail content - more surface area
+
+
+GEO / AEO Continued
+APPENDIX | ADDITIONAL 
+Do
+- Track your Share of Voice (SoV)
+- Review how competitors CommonLit 
+ReadWorks) are positioned, what they're 
+answering, Match whatʼs getting cited (e.g. 
+listicle, category, tool page, article)
+- Build strong landing pages; answer questions
+- Source questions from LLMs, from competitors, 
+paid search keywords
+Do not
+- Flood the zone with AI-generated content
+
+
+AGC Workﬂows + Agents
+APPENDIX | ADDITIONAL 
+AI is excellent for:
+- Ideation, Drafting & Skeletons
+- Grammar/Spelling/Spacing QA
+Humans remain:
+- Core creative thrust and 
+emotionality/connectedness
+- Final editors
+- Decision / Approvers
+Guardrails are essential
+● Limited scope
+● Clear approvals
+● Fail-safe workflows
+
+
+AGC Workﬂows + Agents
+APPENDIX | ADDITIONAL 
+We will dig into
+- Internal marketing workflows (podcasts, blogs, 
+social, etc)
+- Existing team and approval processes
+
+
+Engineering 
+APPENDIX | ADDITIONAL 
+● PDFs → HTML conversion
+● LLM-assisted Content 
+Categorization
+
+
+KPIs + Personalization
+APPENDIX | ADDITIONAL 
+KPIs are clearly defined. Great! 
+AI opportunities with:
+- Personalization
+- Funnel understanding
+- Behavioral nudging
+Important note
+- This goes beyond UX
+- Requires:
+- CRM integration
+- Data understanding
+- Cross-channel thinking
+
+
+Readiness & The Future
+APPENDIX | ADDITIONAL 
+LLMs are becoming:
+- Smaller
+- Cheaper
+- More specialized
+Future possibility:
+- Private, RIF-trained models
+Not a recommendation today, but worth planning for
+Takeaway
+- Data organization and dedicated strategy matter 
+more than todayʼs tools
