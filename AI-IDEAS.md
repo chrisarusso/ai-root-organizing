@@ -51,30 +51,15 @@
 |------|--------|-----|------|------------|
 | **SEARCH & RAG SYSTEMS** |||||
 | Secret Savas - Slack RAG personality analyzer | 🟢 | SEARCH | Internal | 700K msgs, $0.50/user, blog ready, `savas-scripts/not/RAG-test-Slack/` |
-| RIF semantic search - PDFs/videos/PowerPoints | 🟢 | SEARCH | Product | 21K resources vectorized, demo built |
-| Fathom transcript integration | 🔵 | SEARCH | Internal | Meeting transcripts → RAG, sales context |
-| GEO/AEO optimization service | 🔵 | SEARCH | Product | Answer engine optimization, Share of Voice tracking |
-| Share of Voice (SoV) tracking | 🔵 | SEARCH | Product | Monitor GEO/AEO performance vs competitors |
-| Reciprocal Rank Fusion search | 🔵 | SEARCH | Internal | Combines multiple search mechanisms, used in RIF demo |
-| Incremental personality updates | ⚪ | SEARCH | Internal | Process only new Slack messages since last run |
-| Cost optimization research | 🔵 | SEARCH | Internal | Scaling RAG to millions of messages |
-| Embedding strategy research | 🔵 | SEARCH | Internal | Local vs API models, optimization |
-| Chunking strategy research | 🔵 | SEARCH | Internal | Context preservation for RAG |
-| Private/fine-tuned models research | ⚪ | SEARCH | Internal | Client-specific models (future) |
-| Client-specific SLM training | 🔵 | SEARCH | Product | Train small language models with client context (RIF example), beyond RAG |
+| Client-specific SLM training / private find-tuned models | 🔵 | SEARCH | Product | Train small language models with client context (RIF example), beyond RAG |
 | **QUALITY ASSURANCE & TESTING** |||||
-| Website quality analyzer | 🟢 | QUALITY | Internal | Spelling/SEO/WCAG/security, caught real bugs |
-| Website Quality SaaS | 🟡 | QUALITY | Product | Analyzer done, needs web UI, freemium $0-$99/mo |
+| Website scraper / quality analyzer | 🟡 | QUALITY | Internal | Be exhaustive on all the things it could check: Spelling/SEO/WCAG/security, caught real bugs. Forbes misspelling on that page - ai billionaires |
 | Document quality coach | 🔴 | QUALITY | Internal | Pre-review proposals/kickoffs for Lu/Zakk |
 | Meeting/idea scoring system | 🔵 | QUALITY | Internal | Score meetings/ideas against criteria (from Striver) |
-| Automated website monitoring agent | 🔵 | QUALITY | Product | Scheduled scans + alerts, potential SaaS -- Forbes misspelling on that page |
-| Visual regression testing agent | 🔵 | QUALITY | Internal | Automated screenshot comparison |
-| Web vitals monitoring service | 🔵 | QUALITY | Product | Core Web Vitals tracking + recommendations |
-| Security implementation service | 🔵 | QUALITY | Product | Cloudflare setup, bot mitigation |
 | **AUTOMATION & AGENTS** |||||
 | Weekly Slack update meeting order agent | 🟢 | AUTO | Internal | Airtable + Slack MCP server + Google Calendar |
 | Drupal/WordPress update agent | 🔵 | AUTO | Internal | Auto-test staging, visual regression, create PRs, verify form submissions (contact still works) |
-| Proposal/task order automation | 🔵 | AUTO | Internal | Template generation, `proposal-submission-workflow/` |
+| Proposal/task order automation of creation, there are services, but how do we make custom design look good and be readily buildable | 🔵 | AUTO | Internal | Template generation, `proposal-submission-workflow/` |
 | Internal marketing workflow automation | 🔵 | AUTO | Internal | Just about easily tagging things to store somewhere - Podcast, blog, social workflows |
 | MCP server development | 🔵 | AUTO | Internal | Agent-tool communication, `mcp-server/` |
 | **CONTENT GENERATION** |||||
@@ -116,6 +101,12 @@
 | Content: AI agents explained | ⚪ | - | Marketing | ReAct architecture post |
 | **CLIENT-SPECIFIC (RIF)** |||||
 | Review all things we may do for them | 🔵 | CONTENT | Product | Client-specific |
+Semantic search - PDFs/videos/PowerPoints | 🟢 | SEARCH | Product | 21K resources vectorized, demo built |
+| Fathom transcript integration | 🔵 | SEARCH | Internal | Meeting transcripts → RAG, sales context |
+| GEO/AEO optimization service | 🔵 | SEARCH | Product | Answer engine optimization, Share of Voice tracking |
+| Share of Voice (SoV) tracking | 🔵 | SEARCH | Product | Monitor GEO/AEO performance vs competitors |
+| Reciprocal Rank Fusion search | 🔵 | SEARCH | Internal | Combines multiple search mechanisms, used in RIF demo |
+
 | **LOW QUALITY / DUPLICATES / VAGUE** |||||
 | What is unlocked by being able to do things faster. Like create a scraping tool that's worth it  | ⚪ | - | Marketing | Already in Key Learnings |
 
@@ -134,21 +125,6 @@
 
 ---
 
-## Key Decisions
-
-**2024-11: Batching for Cost Optimization**
-Batch 50-200 messages per API call → 90% cost savings ($5+ → $0.50/user)
-
-**2024-11: RAG vs Direct LLM**
-Hybrid approach: RAG for evidence retrieval, direct LLM for structured extraction
-
-**2024-12: Multi-LLM Support**
-Support all three (OpenAI, Claude, Gemini) for comparison value
-
-**2025-12: Single Markdown File**
-Keep everything in AI-IDEAS.md - easier to search/maintain vs multiple files
-
----
 
 ## Key Learnings
 
