@@ -6,7 +6,27 @@
       "Bash(python3 extract_pdf.py:*)",
       "WebFetch(domain:savaslabs.com)",
       "WebSearch",
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "Bash(mkdir:*)",
+      "Bash(ls:*)",
+      "Bash(cd:*)",
+      "Bash(touch:*)",
+      "Bash(chmod:*)",
+      "Bash(rm:*)",
+      "Bash(cp:*)",
+      "Bash(mv:*)",
+      "Bash(python:*)",
+      "Bash(python3:*)",
+      "Bash(uv:*)",
+      "Bash(uvicorn:*)",
+      "Bash(pytest:*)",
+      "Bash(npm:*)",
+      "Bash(npx:*)",
+      "Bash(node:*)",
+      "Bash(git:*)",
+      "WebFetch(domain:fathom.video)",
+      "WebFetch(domain:docs.fathom.video)",
+      "Bash(curl:*)"
     ]
   }
 }
