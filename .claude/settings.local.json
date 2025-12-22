@@ -3,7 +3,9 @@
     "allow": [
       "Bash(pip install:*)",
       "Bash(pip3 install:*)",
-      "Bash(python3 extract_pdf.py:*)"
+      "Bash(python3 extract_pdf.py:*)",
+      "WebFetch(domain:savaslabs.com)",
+      "WebSearch"
     ]
   }
 }
