@@ -12,6 +12,11 @@
 **Next steps to work on - drag to reorder by priority**
 
 - [ ] **GEO/AEO optimization** - depth of understanding. Make updates for Savas
+-  Go back through proposals and recorded conversations with prospects to craft specifc email follow up to re-engage
+-  I should be able to load all slack history, teamwork.com, and transcripts, and google docs, to verify what the scope should be 
+  - should be able to give directory in Drive
+- Need to claude set up and use playwright to have it check things and have that be part of the agent  
+- Try to upsell APC on new AI offerings -- do full scan of site, but show that it's an AI add-on with GEO/AEO
 - [ ] **Create Lab for Secret Savas** Also, spin down server
 - [ ] **Publish Google Drive automation blog** - 2-3 hrs - Medium impact for expertise
 - [ ] **Website Quality SaaS - build web UI** - 2-3 weeks - High impact, new revenue stream
@@ -44,6 +49,7 @@
 - Host events in SF at our office, target is prospective clients, non-technical, maybe we can have a good use case for each of the subcategories of our things by then, and record somehow (with tripod) and add that to content on the page – and offer it for low-cost for local organizations maybe – would be good for content 
 - 	Need to do a Labs project that shows meaningful AI and maybe some really slick front-end stuff so we can show people it as case study
 -  Why were models trained on all of the internet and not just books and newspapers? Not even digitized data? Internet’s better? Seems there’s enough data, and better quality/structured in books/newspapers, but probably not as digitally accessible? 
+-  https://context7.com/?q=terminus 
 
 	
 
