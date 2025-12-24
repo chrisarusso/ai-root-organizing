@@ -49,23 +49,22 @@ def main():
             for msg in messages:
                 msg_type = msg.get('type', 'unknown')
 
+                # Skip non-message types (like file-history-snapshot)
+                if msg_type not in ('user', 'assistant'):
+                    continue
+
+                # Get the actual message content from the nested 'message' field
+                message_data = msg.get('message', {})
+                content = extract_content(message_data)
+
+                # Skip empty messages (like thinking-only blocks)
+                if not content.strip():
+                    continue
+
                 if msg_type == 'user':
-                    content = extract_content(msg)
                     f.write(f"## User\n\n{content}\n\n")
                 elif msg_type == 'assistant':
-                    content = extract_content(msg)
                     f.write(f"## Assistant\n\n{content}\n\n")
-                elif msg_type == 'tool_use':
-                    tool_name = msg.get('name', msg.get('tool_name', 'unknown'))
-                    tool_input = msg.get('input', msg.get('tool_input', {}))
-                    f.write(f"### Tool: {tool_name}\n\n")
-                    f.write(f"```json\n{json.dumps(tool_input, indent=2)}\n```\n\n")
-                elif msg_type == 'tool_result':
-                    content = extract_content(msg)
-                    # Truncate long tool results
-                    if len(content) > 2000:
-                        content = content[:2000] + "\n... (truncated)"
-                    f.write(f"### Result\n\n```\n{content}\n```\n\n")
 
         print(f"Session exported to {output_file}")
 
@@ -83,15 +82,43 @@ def extract_content(msg):
         parts = []
         for block in content:
             if isinstance(block, dict):
-                if block.get('type') == 'text':
+                block_type = block.get('type', '')
+                if block_type == 'text':
                     parts.append(block.get('text', ''))
-                elif block.get('type') == 'tool_use':
-                    parts.append(f"[Tool: {block.get('name', 'unknown')}]")
+                elif block_type == 'tool_use':
+                    tool_name = block.get('name', 'unknown')
+                    tool_input = block.get('input', {})
+                    # Format tool calls nicely
+                    if tool_name == 'Read':
+                        file_path = tool_input.get('file_path', '')
+                        parts.append(f"*[Reading: {file_path}]*")
+                    elif tool_name == 'Bash':
+                        cmd = tool_input.get('command', '')[:100]
+                        parts.append(f"*[Running: `{cmd}`]*")
+                    elif tool_name == 'Edit':
+                        file_path = tool_input.get('file_path', '')
+                        parts.append(f"*[Editing: {file_path}]*")
+                    elif tool_name == 'Write':
+                        file_path = tool_input.get('file_path', '')
+                        parts.append(f"*[Writing: {file_path}]*")
+                    elif tool_name == 'Glob' or tool_name == 'Grep':
+                        pattern = tool_input.get('pattern', '')
+                        parts.append(f"*[{tool_name}: {pattern}]*")
+                    else:
+                        parts.append(f"*[Tool: {tool_name}]*")
+                elif block_type == 'tool_result':
+                    # Include truncated tool results
+                    result = block.get('content', '')
+                    if isinstance(result, str) and len(result) > 500:
+                        result = result[:500] + "... (truncated)"
+                    if result:
+                        parts.append(f"```\n{result}\n```")
+                # Skip 'thinking' blocks - they're internal reasoning
             elif isinstance(block, str):
                 parts.append(block)
-        return '\n'.join(parts)
+        return '\n'.join(filter(None, parts))
 
-    return str(content)
+    return str(content) if content else ''
 
 
 if __name__ == '__main__':

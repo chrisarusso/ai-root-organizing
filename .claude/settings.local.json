@@ -26,7 +26,16 @@
       "Bash(git:*)",
       "WebFetch(domain:fathom.video)",
       "WebFetch(domain:docs.fathom.video)",
-      "Bash(curl:*)"
+      "Bash(curl:*)",
+      "WebFetch(domain:americanpackaging.com)",
+      "Bash(find:*)",
+      "Bash(wc:*)",
+      "WebFetch(domain:developers.fathom.ai)",
+      "WebFetch(domain:help.fathom.video)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:rollout.com)",
+      "Bash(grep:*)",
+      "Bash(CLAUDE_PROJECT_DIR=/Users/chris/web/savas-things/AI python3:*)"
     ]
   }
 }
