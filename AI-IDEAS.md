@@ -1,6 +1,6 @@
 # AI Ideas Tracker
 
-**Last Updated:** 2025-12-20
+**Last Updated:** 2025-12-24
 
 ## Legend
 **Status:** 🟢 Built | 🟡 In Progress | 🔴 Planned | 🔵 Research | ⚪ Idea
@@ -13,8 +13,8 @@
 | Idea | Status | Type | Notes |
 |------|--------|------|-------|
 | Secret Savas - Slack RAG personality analyzer | 🟢 | Internal | 700K msgs, $0.50/user, blog ready, `savas-scripts/not/RAG-test-Slack/` |
-| Client-specific SLM training / private find-tuned models | 🔵 | Product | Train small language models with client context (RIF example), beyond RAG |
-| Website scraper / quality analyzer | 🟡 | Internal | Be exhaustive on all the things it could check: Spelling/SEO/WCAG/security, caught real bugs. Forbes misspelling on that page - ai billionaires  Crawl4AI for research/content curation  Scraper: https://chatgpt.com/c/6920031a-3b08-8327-9326-4550cdb53cd0 I also just found that the taxonomy term for AI is not checked in the view – so it fails when you go to it 🤦  – this should be added to the screening tool – clicks everything and finds non-standard behavior. Maybe we ca provide some sort of service that an agent can update the site and document the fixes it’s made, and charge for that service as a monthly subscription or something I could imagine it having permission to log into the Drupal site, fixing the typo, documenting it, and  Things like typos maybe don’t recur a bunch, but people not adding  What about an agent that can login to a Drupal/WordPress site – it’s interesting 🤔 Maybe the agent does thee update on your staging site and runs some other tests and takes a screenshot so you can just quickly approve the update. Could also be triggered on any site change. |
+| Client-specific SLM training / private fine-tuned models | 🟡 | Product | Research complete, POC ready. See `projects/small-private-model-research/RESEARCH.md`. Hybrid approach: fine-tune for style + RAG for knowledge. |
+| Website scraper / quality analyzer | 🟡 | Internal | Be exhaustive on all the things it could check: Spelling/SEO/WCAG/security, caught real bugs. Forbes misspelling on that page - https://www.linkedin.com/in/phoebe-c-liu/ https://www.forbes.com/sites/phoebeliu/2025/09/17/the-ai-billionaire-youve-never-heard-of/ - ai billionaires  Crawl4AI for research/content curation  Scraper: https://chatgpt.com/c/6920031a-3b08-8327-9326-4550cdb53cd0 I also just found that the taxonomy term for AI is not checked in the view – so it fails when you go to it 🤦  – this should be added to the screening tool – clicks everything and finds non-standard behavior. Maybe we ca provide some sort of service that an agent can update the site and document the fixes it’s made, and charge for that service as a monthly subscription or something I could imagine it having permission to log into the Drupal site, fixing the typo, documenting it, and  Things like typos maybe don’t recur a bunch, but people not adding  What about an agent that can login to a Drupal/WordPress site – it’s interesting 🤔 Maybe the agent does thee update on your staging site and runs some other tests and takes a screenshot so you can just quickly approve the update. Could also be triggered on any site change. |
 | Document quality analyzer | 🔴 | Internal | Pre-review proposals/kickoffs for Lu/Zakk Task Orders -- check against spelling, spacing, grammar, other quality metrics.  `proposal-submission-workflow/` -- did some work there |
 | Meeting/idea scoring system | 🔵 | Internal | Score meetings/ideas against criteria (from Striver) |
 | Weekly Slack update meeting order agent | 🟢 | Internal | Airtable + Slack MCP server + Google Calendar |
