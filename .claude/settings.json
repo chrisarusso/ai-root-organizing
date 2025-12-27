@@ -1,15 +1,1 @@
-{
-  "hooks": {
-    "SessionEnd": [
-      {
-        "matcher": "",
-        "hooks": [
-          {
-            "type": "command",
-            "command": "python3 \"$CLAUDE_PROJECT_DIR/.claude/hooks/export-session.py\""
-          }
-        ]
-      }
-    ]
-  }
-}
+{}
