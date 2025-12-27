@@ -1,0 +1,2 @@
+# Encrypt Claude transcripts
+.claude/transcripts/** filter=git-crypt diff=git-crypt
