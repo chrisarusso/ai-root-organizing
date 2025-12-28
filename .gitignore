@@ -36,8 +36,9 @@ npm-debug.log*
 # Note: .env files ARE tracked in this repo
 # These are non-production projects for learning/experimentation
 
-# These will be separate repos
-/projects/
+# Projects - ignore most (separate repos), but track shared/
+/projects/*
+!/projects/shared/
 
 /marketing_and_sales/
 

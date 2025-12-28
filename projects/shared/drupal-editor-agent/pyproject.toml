@@ -1,0 +1,43 @@
+[project]
+name = "drupal-editor-agent"
+version = "0.1.0"
+description = "Shared library for making staged/reviewable changes to Drupal sites via Terminus/Drush or Playwright"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    # Browser automation (fallback)
+    "playwright>=1.40.0",
+    # HTTP client
+    "httpx>=0.26.0",
+    # Data validation
+    "pydantic>=2.0.0",
+    "pydantic-settings>=2.0.0",
+    # Utilities
+    "python-dotenv>=1.0.0",
+    "rich>=13.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4.0",
+    "pytest-asyncio>=0.23.0",
+    "ruff>=0.1.0",
+]
+
+[project.scripts]
+drupal-editor = "drupal_editor.cli:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/drupal_editor"]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
