@@ -12,10 +12,16 @@
 **Next steps to work on - drag to reorder by priority**
 
 - [ ] **GEO/AEO optimization** - depth of understanding. Make updates for Savas
+- Make sure LinkedIn and other notifications are coming to my phone
+- Also, how can I automate voice memos into my todos for savas and have suggestions to make it easy to accept/build
+- Need to figure out the best way to write emails in my tone, and automate those with one-click approvals
+- Develop list in addition to marketing contacts to send AI Readiness Asseessment (existing clients/prospects)
+- Design tools/leadership: https://savas-labs.monday.com/boards/8980628899/pulses/8922398946
 -  Go back through proposals and recorded conversations with prospects to craft specifc email follow up to re-engage
 -  I should be able to load all slack history, teamwork.com, and transcripts, and google docs, to verify what the scope should be 
   - should be able to give directory in Drive
 - Need to claude set up and use playwright to have it check things and have that be part of the agent  
+- Learn how to use openrouter for cheaper stuff
 - Try to upsell APC on new AI offerings -- do full scan of site, but show that it's an AI add-on with GEO/AEO
 - [ ] **Create Lab for Secret Savas** Also, spin down server
 - [ ] **Publish Google Drive automation blog** - 2-3 hrs - Medium impact for expertise

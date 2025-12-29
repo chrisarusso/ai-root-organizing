@@ -35,7 +35,12 @@
       "WebFetch(domain:github.com)",
       "WebFetch(domain:rollout.com)",
       "Bash(grep:*)",
-      "Bash(CLAUDE_PROJECT_DIR=/Users/chris/web/savas-things/AI python3:*)"
+      "Bash(CLAUDE_PROJECT_DIR=/Users/chris/web/savas-things/AI python3:*)",
+      "Bash(gh auth status:*)",
+      "Bash(gh api:*)",
+      "Bash(gh repo create:*)",
+      "Bash(terminus auth:whoami:*)",
+      "Bash(terminus drush:*)"
     ]
   }
 }
