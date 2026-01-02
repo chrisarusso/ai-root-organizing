@@ -93,6 +93,18 @@ Ask before: major architectural decisions, adding dependencies, changing shared 
 - `.env` files ARE tracked (non-production learning projects)
 - API keys: OpenAI, Google, Slack, Anthropic
 
+## Encryption (git-crypt)
+
+`.claude/transcripts/` are encrypted with git-crypt. They appear as plaintext locally but are encrypted in git.
+
+**Key location:** 1Password (search "ai-root-git-crypt")
+
+**To unlock on a new machine:**
+```bash
+git clone <repo>
+git-crypt unlock ~/path/to/ai-root-git-crypt.key
+```
+
 ## Planning Documents
 
 Each new project has a PLAN.md with scope, architecture, and success metrics:

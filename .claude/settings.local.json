@@ -40,7 +40,9 @@
       "Bash(gh api:*)",
       "Bash(gh repo create:*)",
       "Bash(terminus auth:whoami:*)",
-      "Bash(terminus drush:*)"
+      "Bash(terminus drush:*)",
+      "Bash(brew install:*)",
+      "Bash(pbcopy)"
     ]
   }
 }
