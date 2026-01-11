@@ -11,7 +11,9 @@
 
 **Next steps to work on - drag to reorder by priority**
 
-- [ ] **GEO/AEO optimization** - depth of understanding. Make updates for Savas
+- **GEO/AEO optimization** - depth of understanding. Make updates for Savas
+- Use playwright to login to rippling to check salaries for folks to make sure htey're up to date in my financial reporting
+- Maybe make quick videos for folks like Justin @ NKH who would be likely candidates to hire us for AI services as a sales tactic. 
 - Make sure LinkedIn and other notifications are coming to my phone
 - Also, how can I automate voice memos into my todos for savas and have suggestions to make it easy to accept/build
 - Need to figure out the best way to write emails in my tone, and automate those with one-click approvals

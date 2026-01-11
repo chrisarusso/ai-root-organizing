@@ -1,10 +1,26 @@
 # AI Ideas Tracker
 
-**Last Updated:** 2025-12-24
+**Last Updated:** 2025-01-10
 
 ## Legend
 **Status:** 🟢 Built | 🟡 In Progress | 🔴 Planned | 🔵 Research | ⚪ Idea
 
+---
+
+## Archived Ideas (Historical)
+
+Past ideas consolidated from various sources:
+
+| Source | File | Summary |
+|--------|------|---------|
+| Evernote | [evernote-ideas-organized.md](projects/pull-in-all-past-ideas/evernote-ideas-organized.md) | 9 product ideas (rideshare, coupon alerts, bar tips), sustainability ideas, startup notes from Katie |
+| Google Docs | [google-docs-ideas-organized.md](projects/pull-in-all-past-ideas/google-docs-ideas-organized.md) | Faresha.re (deep research), Durham Delivers/DeeDee, coworking arbitrage, Jake conversations on MECE |
+
+**Notable from archives:**
+- **Faresha.re** - Event ridesharing with extensive market research (festivals, weddings, college sports)
+- **Durham Delivers** - Local food delivery with SQL data analysis
+- **Errand sharing** - Neighbors pick things up for each other
+- **Wedding rideshare** - Partner with theknot.com
 
 ---
 
@@ -22,6 +38,7 @@
 | Drupal/WordPress update agent | 🟡 | Internal | Auto-test staging, visual regression / HTML comparison (should be able to do for all pages easily enough), create PRs, verify form submissions (contact still works). Minor version test and then move to major version |
 | Multi-source knowledge base (Savas unified search) | 🟡  | Internal | Slack + Drive + GitHub + Harvest + Teamwork + Fathom, single search interface - need to be thoughtful/clear about use cases but demoing searchability AND auto-triggers on things that matter that we might want to be alerted about -- connected to document quality checking automation |
 | Auto-email unsubscriber | 🟡 | Internal | I'd like to give a tool access to my email, and go through and unsubscribe from all tools on messages that are marked as |
+| Email style assistant | 🟡 | Internal | AI drafts that sound like me. Gmail API, style learning, review before send. `projects/email-style-assistant/` Competitors: Fyxer, Ellie, Shortwave. Building custom for control/privacy. |
 | Proposal/task order automation of creation, there are services, but how do we make custom design look good and be readily buildable | 🔵 | Internal | Template generation, `proposal-submission-workflow/` |
 | Some sort of self-asssments demo | 🔴 | Internal | Kirsten's idea, maybe it couples with the scraper and you get some brief insights - Kirsten’s tool – maybe we can LLM-ify crawling someone’s site – looking for typos as an example, and also assessing if it’s LLM ready https://techcrunch.com/2025/11/18/hugging-face-ceo-says-were-in-an-llm-bubble-not-an-ai-bubble/  |
 | Agents searching how to make site run leaner (DB queries) | 🔴 | Internal | Ways to automatically / programmatically check opportunities to reduce bloat so I don’t have to pay more for Drupal site on Platform.sh / Upsun Can it scour and see files, and look for things that are no longer referenced from the site, or bloaty-y ass tables|

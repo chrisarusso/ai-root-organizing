@@ -42,7 +42,13 @@
       "Bash(terminus auth:whoami:*)",
       "Bash(terminus drush:*)",
       "Bash(brew install:*)",
-      "Bash(pbcopy)"
+      "Bash(pbcopy)",
+      "WebFetch(domain:gmelius.com)",
+      "WebFetch(domain:tryellie.com)",
+      "WebFetch(domain:www.shortwave.com)",
+      "WebFetch(domain:superhuman.com)",
+      "WebFetch(domain:www.inboxpilot.co)",
+      "WebFetch(domain:www.getinboxzero.com)"
     ]
   }
 }
